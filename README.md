@@ -313,3 +313,5 @@ The active backend chain uses `recipe_extraction_prompt.txt` to return a complet
 - It does not use external recipe APIs.
 - Nutrition values are approximate and should not be treated as medical advice.
 - Some recipe sites block scraping. Use normal public recipe pages for testing.
+
+Thank you
