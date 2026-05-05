@@ -1,4 +1,4 @@
-# AI Recipe Scraper
+# AI Recipe Scrapper
 
 AI Recipe Scraper is a full-stack recipe extraction project. It scrapes recipe blog HTML with BeautifulSoup, sends cleaned text to an LLM through LangChain/Gemini, stores structured and generated recipe data in a local SQLite database by default, and displays the results in a clean React UI.
 
