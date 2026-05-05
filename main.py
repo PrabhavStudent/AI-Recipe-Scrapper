@@ -101,4 +101,4 @@ def meal_planner(payload: MealPlanRequest, db: Session = Depends(get_db)) -> Mea
         recipe_ids=payload.recipe_ids,
         recipe_titles=[record.title for record in records],
         combined_shopping_list=merge_shopping_lists(recipe_payloads),
-    )
+    
