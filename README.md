@@ -282,7 +282,7 @@ Recipe URLs tested are stored in:
 sample_data/example_recipe_urls.txt
 ```
 
-Example JSON output is stored in:
+Example JSON output is stored in
 
 ```text
 sample_data/api_outputs/lasagna_output.json
